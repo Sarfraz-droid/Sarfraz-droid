@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **alamsarfraz422@gmail.com**
 
+- Persuing Electronics and Communication Engineering in Jamia Millia Islamia (2020-2024)
+
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=Sarfraz-droid&show_icons=true)
 
 
